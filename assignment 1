@@ -1,0 +1,10 @@
+a=20
+b=30
+c=a+b
+print(c)
+
+
+a=int(input("enter a number :"))
+b=int(input("enter a number :"))
+c=a+b
+print(c)
