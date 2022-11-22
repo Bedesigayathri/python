@@ -1,0 +1,9 @@
+a=int(input("principal amount"))
+b=int(input("time period"))
+r=float(input("rate of interest"))
+si=(a*b*r)/100
+print("simple interest:",si)
+hello=si+a
+time=b*12
+emi=hello/time
+print("emi:",emi)
